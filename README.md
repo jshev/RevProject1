@@ -20,8 +20,8 @@ TODOs:
 * 2
 * 3
 
-# Getting Started
+## Getting Started
 Clone the project using Git or download a Zip file of the project
 
-# Usage
+## Usage
 Here, you instruct other people on how to use your project after they’ve installed it.
